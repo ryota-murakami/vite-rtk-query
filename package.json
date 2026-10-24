@@ -34,7 +34,7 @@
     "react": "^19.2.3",
     "react-dom": "^19.2.3",
     "react-redux": "^9.3.0",
-    "react-router": "^8.4.0",
+    "react-router": "^8.5.0",
     "redux": "5.0.1"
   },
   "devDependencies": {
@@ -51,8 +51,8 @@
     "@types/node": "^26.6.5",
     "@types/react": "^19.2.7",
     "@types/react-dom": "^19.2.3",
-    "@typescript-eslint/eslint-plugin": "^8.71.2",
-    "@typescript-eslint/parser": "^8.71.2",
+    "@typescript-eslint/eslint-plugin": "^8.72.0",
+    "@typescript-eslint/parser": "^8.72.0",
     "@vitejs/plugin-react": "^6.1.2",
     "@vitejs/plugin-react-swc": "^4.3.3",
     "all-contributors-cli": "^6.26.1",
@@ -66,13 +66,13 @@
     "lint-staged": "^17.6.0",
     "msw": "^3.0.3",
     "node-fetch": "^3.3.2",
-    "postcss": "^8.5.30",
+    "postcss": "^8.5.31",
     "prettier": "^3.9.10",
     "prettier-plugin-tailwindcss": "^0.8.1",
     "serve": "^14.2.6",
     "tailwindcss": "^4.3.3",
     "typescript": "^7.0.2",
-    "vite": "^8.3.4",
+    "vite": "^8.3.5",
     "vitest": "^5.0.5"
   },
   "volta": {
