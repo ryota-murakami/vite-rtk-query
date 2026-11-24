@@ -2,3 +2,6 @@ allowBuilds:
   '@swc/core': true
   esbuild: true
   unrs-resolver: true
+
+overrides:
+  'follow-redirects@<1.16.2': '1.16.2'
